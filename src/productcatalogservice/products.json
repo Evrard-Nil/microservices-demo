@@ -105,6 +105,366 @@
                 "nanos": 300000000
             },
             "categories": ["gardening"]
+        },
+        {
+            "id": "123456789A",
+            "name": "Bike Beer Holder",
+            "description": "Want to drink some beer while riding your bike?",
+            "picture": "/static/img/products/beer_holder.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 23,
+                "nanos": 300000000
+            },
+            "categories": ["cycling"]
+        },
+        {
+            "id": "123456789B",
+            "name": "Bluetooth Beanie",
+            "description": "The bluetooth beanie allows you to listen to music or talk on the phone through your stylish headgear.",
+            "picture": "/static/img/products/bluetooth_beannie.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 37,
+                "nanos": 300000000
+            },
+            "categories": ["music"]
+        },
+        {
+            "id": "123456789C",
+            "name": "Healthy Chocolate Bar",
+            "description": "Quinoa, smoked tea and vanilla chocolate is organic and gluten free, perfect for a little snack!",
+            "picture": "/static/img/products/chocolate_bar.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 300000000
+            },
+            "categories": ["food"]
+        },
+        {
+            "id": "123456789D",
+            "name": "e-Coffee Smoking Liquid",
+            "description": "Instead of drinking a regular espresso, you can smoke your daily caffeine hit.",
+            "picture": "/static/img/products/coffee_liquid.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 7,
+                "nanos": 300000000
+            },
+            "categories": ["smoking"]
+        },
+        {
+            "id": "123456789E",
+            "name": "Fake Man Bun",
+            "description": "If you can't make it, fake it!",
+            "picture": "/static/img/products/fake_man_bun.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 300000000
+            },
+            "categories": ["dressing"]
+        },
+        {
+            "id": "123456789F",
+            "name": "Vodka Fog Point",
+            "description": "The vodka made with San Francisco fog.",
+            "picture": "/static/img/products/hangarone_fogpoint.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 52,
+                "nanos": 300000000
+            },
+            "categories": ["drinking"]
+        },
+        {
+            "id": "123456789G",
+            "name": "Penny Farthing",
+            "description": "The ultimate mode of transport, the pennyfathing will make a statement whilst you ride around.",
+            "picture": "/static/img/products/penny-farthing.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 879,
+                "nanos": 300000000
+            },
+            "categories": ["cycling", "vintage"]
+        },
+        {
+            "id": "123456789H",
+            "name": "USB Typewriter",
+            "description": "The USB typewriter connects a traditional machine to your iPad or computer.",
+            "picture": "/static/img/products/penny-usb_typewriter.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 125,
+                "nanos": 300000000
+            },
+            "categories": ["vintage"]
+        },
+        {
+            "id": "123456789I",
+            "name": "Wooden Bow Tie",
+            "description": "For fancier events, the wooden bow tie says 'I'm unique'.",
+            "picture": "/static/img/products/wooden_bow_tie_1.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 17,
+                "nanos": 300000000
+            },
+            "categories": ["vintage", "dressing"]
+        },
+        {
+            "id": "123456789J",
+            "name": "Wooden Bow Tie",
+            "description": "For fancier events, the wooden bow tie says 'I'm unique'.",
+            "picture": "/static/img/products/wooden_bow_tie_2.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 300000000
+            },
+            "categories": ["vintage", "dressing"]
+        },
+        {
+            "id": "223456789A",
+            "name": "Bike Beer Holder",
+            "description": "Want to drink some beer while riding your bike?",
+            "picture": "/static/img/products/beer_holder.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 23,
+                "nanos": 300000000
+            },
+            "categories": ["cycling"]
+        },
+        {
+            "id": "223456789B",
+            "name": "Bluetooth Beanie",
+            "description": "The bluetooth beanie allows you to listen to music or talk on the phone through your stylish headgear.",
+            "picture": "/static/img/products/bluetooth_beannie.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 37,
+                "nanos": 300000000
+            },
+            "categories": ["music"]
+        },
+        {
+            "id": "223456789C",
+            "name": "Healthy Chocolate Bar",
+            "description": "Quinoa, smoked tea and vanilla chocolate is organic and gluten free, perfect for a little snack!",
+            "picture": "/static/img/products/chocolate_bar.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 300000000
+            },
+            "categories": ["food"]
+        },
+        {
+            "id": "223456789D",
+            "name": "e-Coffee Smoking Liquid",
+            "description": "Instead of drinking a regular espresso, you can smoke your daily caffeine hit.",
+            "picture": "/static/img/products/coffee_liquid.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 7,
+                "nanos": 300000000
+            },
+            "categories": ["smoking"]
+        },
+        {
+            "id": "223456789E",
+            "name": "Fake Man Bun",
+            "description": "If you can't make it, fake it!",
+            "picture": "/static/img/products/fake_man_bun.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 300000000
+            },
+            "categories": ["dressing"]
+        },
+        {
+            "id": "223456789F",
+            "name": "Vodka Fog Point",
+            "description": "The vodka made with San Francisco fog.",
+            "picture": "/static/img/products/hangarone_fogpoint.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 52,
+                "nanos": 300000000
+            },
+            "categories": ["drinking"]
+        },
+        {
+            "id": "223456789G",
+            "name": "Penny Farthing",
+            "description": "The ultimate mode of transport, the pennyfathing will make a statement whilst you ride around.",
+            "picture": "/static/img/products/penny-farthing.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 879,
+                "nanos": 300000000
+            },
+            "categories": ["cycling", "vintage"]
+        },
+        {
+            "id": "223456789H",
+            "name": "USB Typewriter",
+            "description": "The USB typewriter connects a traditional machine to your iPad or computer.",
+            "picture": "/static/img/products/penny-usb_typewriter.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 125,
+                "nanos": 300000000
+            },
+            "categories": ["vintage"]
+        },
+        {
+            "id": "223456789I",
+            "name": "Wooden Bow Tie",
+            "description": "For fancier events, the wooden bow tie says 'I'm unique'.",
+            "picture": "/static/img/products/wooden_bow_tie_1.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 17,
+                "nanos": 300000000
+            },
+            "categories": ["vintage", "dressing"]
+        },
+        {
+            "id": "223456789J",
+            "name": "Wooden Bow Tie",
+            "description": "For fancier events, the wooden bow tie says 'I'm unique'.",
+            "picture": "/static/img/products/wooden_bow_tie_2.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 300000000
+            },
+            "categories": ["vintage", "dressing"]
+        },
+        {
+            "id": "323456789A",
+            "name": "Bike Beer Holder",
+            "description": "Want to drink some beer while riding your bike?",
+            "picture": "/static/img/products/beer_holder.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 23,
+                "nanos": 300000000
+            },
+            "categories": ["cycling"]
+        },
+        {
+            "id": "323456789B",
+            "name": "Bluetooth Beanie",
+            "description": "The bluetooth beanie allows you to listen to music or talk on the phone through your stylish headgear.",
+            "picture": "/static/img/products/bluetooth_beannie.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 37,
+                "nanos": 300000000
+            },
+            "categories": ["music"]
+        },
+        {
+            "id": "323456789C",
+            "name": "Healthy Chocolate Bar",
+            "description": "Quinoa, smoked tea and vanilla chocolate is organic and gluten free, perfect for a little snack!",
+            "picture": "/static/img/products/chocolate_bar.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 2,
+                "nanos": 300000000
+            },
+            "categories": ["food"]
+        },
+        {
+            "id": "323456789D",
+            "name": "e-Coffee Smoking Liquid",
+            "description": "Instead of drinking a regular espresso, you can smoke your daily caffeine hit.",
+            "picture": "/static/img/products/coffee_liquid.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 7,
+                "nanos": 300000000
+            },
+            "categories": ["smoking"]
+        },
+        {
+            "id": "323456789E",
+            "name": "Fake Man Bun",
+            "description": "If you can't make it, fake it!",
+            "picture": "/static/img/products/fake_man_bun.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 300000000
+            },
+            "categories": ["dressing"]
+        },
+        {
+            "id": "323456789F",
+            "name": "Vodka Fog Point",
+            "description": "The vodka made with San Francisco fog.",
+            "picture": "/static/img/products/hangarone_fogpoint.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 52,
+                "nanos": 300000000
+            },
+            "categories": ["drinking"]
+        },
+        {
+            "id": "323456789G",
+            "name": "Penny Farthing",
+            "description": "The ultimate mode of transport, the pennyfathing will make a statement whilst you ride around.",
+            "picture": "/static/img/products/penny-farthing.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 879,
+                "nanos": 300000000
+            },
+            "categories": ["cycling", "vintage"]
+        },
+        {
+            "id": "323456789H",
+            "name": "USB Typewriter",
+            "description": "The USB typewriter connects a traditional machine to your iPad or computer.",
+            "picture": "/static/img/products/penny-usb_typewriter.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 125,
+                "nanos": 300000000
+            },
+            "categories": ["vintage"]
+        },
+        {
+            "id": "323456789I",
+            "name": "Wooden Bow Tie",
+            "description": "For fancier events, the wooden bow tie says 'I'm unique'.",
+            "picture": "/static/img/products/wooden_bow_tie_1.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 17,
+                "nanos": 300000000
+            },
+            "categories": ["vintage", "dressing"]
+        },
+        {
+            "id": "323456789J",
+            "name": "Wooden Bow Tie",
+            "description": "For fancier events, the wooden bow tie says 'I'm unique'.",
+            "picture": "/static/img/products/wooden_bow_tie_2.jpg",
+            "priceUsd": {
+                "currencyCode": "USD",
+                "units": 24,
+                "nanos": 300000000
+            },
+            "categories": ["vintage", "dressing"]
         }
     ]
 }
