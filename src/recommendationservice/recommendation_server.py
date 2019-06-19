@@ -82,7 +82,7 @@ class RecommendationService(demo_pb2_grpc.RecommendationServiceServicer):
         a = 0
         b = 1
 
-        for i in range(80000):
+        for i in range(1000):
           
           res = a+b
           a = b
