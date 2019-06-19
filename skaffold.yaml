@@ -24,8 +24,8 @@ build:
 #     context: src/emailservice
 #   - image: productcatalogservice
 #     context: src/productcatalogservice
-#   - image: recommendationservice
-#     context: src/recommendationservice
+  - image: recommendationservice
+    context: src/recommendationservice
 #   - image: shippingservice
 #     context: src/shippingservice
 #   - image: checkoutservice
@@ -48,6 +48,7 @@ deploy:
   kubectl:
     manifests:
     - ./kubernetes-manifests/loadgenerator.yaml
+    - ./kubernetes-manifests/recommendationservice.yaml
 profiles:
 # "travis-ci" profile is used to build the images without
 # pushing them.
