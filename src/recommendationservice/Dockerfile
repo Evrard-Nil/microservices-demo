@@ -20,6 +20,7 @@ COPY . .
 
 # set listen port
 ENV PORT "8080"
+ENV ISDEGRADED "true"
 EXPOSE 8080
 
 ENTRYPOINT ["python", "/recommendationservice/recommendation_server.py"]
