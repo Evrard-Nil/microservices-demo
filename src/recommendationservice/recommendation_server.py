@@ -78,15 +78,15 @@ class RecommendationService(demo_pb2_grpc.RecommendationServiceServicer):
         # build and return response
         response = demo_pb2.ListRecommendationsResponse()
         response.product_ids.extend(prod_list)
+# While degraded service does less computaion
+#         a = 0
+#         b = 1
 
-        a = 0
-        b = 1
-
-        for i in range(100000):
+#         for i in range(100000):
           
-          res = a+b
-          a = b
-          b = res  
+#           res = a+b
+#           a = b
+#           b = res  
 
         return response
 
