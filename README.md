@@ -1,4 +1,15 @@
-# Hipster Shop: Cloud-Native Microservices Demo Application
+# Green IT study
+
+The purpose of this repo was to study ressource usage of a webApp according to its structure. Goal was to develop 2 recommendation services, a complex and a lighter one. When going through an important load, we change from the complex recommendation service to the simple one and see how it impacts usage of CPU, memory and response time. The goal is also to show that usage of simpler services when 'greener' energy is not available is possible and may not be as complex as expected. We used an exemple web app from Google, faking a real e-commerce website.
+
+*Context*: Project for Software Engineering Education at IMT Atlantique of Nantes, France.
+
+## Usage
+
+This repo contains 4 branches, they are two load generation workflow different, and for each the simple recommendation service and the complex one.
+'Skaffold.yaml' files are configured to deploy only concerned services.
+
+## Hipster Shop: Cloud-Native Microservices Demo Application
 
 This project contains a 10-tier microservices application. The application is a
 web-based e-commerce app called **“Hipster Shop”** where users can browse items,
